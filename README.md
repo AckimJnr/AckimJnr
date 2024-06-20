@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/AckimJnr/AckimJnr/assets/116080565/3d71976e-8d2f-488f-a82b-9febf7b30dce" width="50%" height="50%" />
-
+<img src="https://github.com/AckimJnr/AckimJnr/assets/116080565/de5749bb-6397-430c-a11e-0323ef0a3719" width="50%" height="50%" />
 ![](https://komarev.com/ghpvc/?username=AckimJnr)
 
 - 💻 I'm a fullstack software dev working at the University of Malawi as an Intern Systems Developer(I don't mind freelancing though😉)
