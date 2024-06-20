@@ -1,7 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/AckimJnr/AckimJnr/assets/116080565/de5749bb-6397-430c-a11e-0323ef0a3719" width="50%" height="50%" />
 ![](https://komarev.com/ghpvc/?username=AckimJnr)
-
 - 💻 I'm a fullstack software dev working at the University of Malawi as an Intern Systems Developer(I don't mind freelancing though😉)
 - 🌱 I’m currently learning the MERN Stack to add on to the programming skill I already have.
 - 🔭 I’m currently working on a messaging API that can be utilised by developers who would want to incorporate chatting as part of their applications; 🤔 thinking of adding AI customer assistance on the same.
